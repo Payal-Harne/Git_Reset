@@ -1,4 +1,7 @@
 Git Reset
 
 Demo 1
-One file added
+
+
+Demo 2
+Changed in the file
